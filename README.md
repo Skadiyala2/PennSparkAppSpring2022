@@ -1,4 +1,4 @@
-# PennSparkAppSpring2022
+# PennSparkAppSpring2022 (NOTE SWITCH TO BRANCH MASTER TO SEE CODE)
 1) This is my rendition of "Tweeter". The project was not fully finished (I spent 4-5 hours last night debugging my code, reinstalling NPM, adjusting virtual environment, changing package configurations, only to realize that I accidentally named my Navbar MainNav instead of Navbar :(((( ) My application has a completed front end and a backend side. I just needed to add JSON reading / posting capabilities in the React portion and add JWT authentication in the backend in order to finalize it. (I'm probably going to finish this project on the weekend for fun). In terms of application capabilities, the back end can handle all the functionalities involving automated hashtags, tweets, user creation, follow, etc. and set up a REST framework, and the front end uses components and is mobile friendly. 
 
 
